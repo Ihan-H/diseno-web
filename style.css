@@ -1,0 +1,92 @@
+:root{
+	--menu-hover:#cd9b33;
+	--color-general:#;
+	--color-titulos:#;
+}
+body{
+	font-size: 14px;
+}
+
+
+header{
+	background-color: #fff;
+	padding: 5px 0;
+	box-shadow: 0px 0px 5px 10px #f2f2f2;
+}
+
+#delicieux{
+	text-align: center;
+}
+
+#delicieux h3, h6{
+	color: #000;
+	font-family: "Lora", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#delicieux p{
+	color: #666;
+	font-family: "Lora", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+#delicieux h1, h5{
+	font-family: "Kaushan Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+
+#intro{
+	text-align: center;
+	font-size: 20px;
+	font-family: "Lora", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#intro-text{
+	padding: 50px 20px;
+}
+
+#subtitle{
+	color: #666;
+	font-size: 12px;
+}
+
+
+footer #footer-rows{
+	background-color: #22202e;
+	color: #CCC;
+	padding: 20px 0px;
+	
+	text-align: center;
+}
+
+#footer-rows h4, p{
+	margin: 25px;
+	font-family: "Lora", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#footer-rows h4{
+	color: #fff;
+	font-weight: 500;
+}
+
+footer #copyright{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
